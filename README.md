@@ -2,7 +2,7 @@
 <h1 id="Fine-Tuning-MARBERT-for-Multiclass-Text-Classification-For-Arabic-Language">Fine Tuning MARBERT for Multiclass Text Classification<a href="https://github.com/ziadelsayed0/MachineLearning-DeepLearning/blob/main/NLP/Topic-Classification-For-Arabic-Language_Marbert_PyTorch_Fine_tuning.ipynb" class="anchor-link">¶</a></h1>
 <ur>
   <li><h2>Model - 'MARBERT'</h2></li>
-  <li><h2>Dataset <h3>called MergedTopics collected from separated text files</h3></h2></li>
+  <li><h2>Dataset <h3>called 'MergedTopics' collected from separated text files</h3></h2></li>
 </ur>
 <div data-mime-type="text/markdown" class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput">
 <h2 id="First-What-is-BERT?">First What is BERT?</h2><p>BERT stands for Bidirectional Encoder Representations from Transformers. The name itself gives us several clues to what BERT is all about.</p>
